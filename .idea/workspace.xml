@@ -2,14 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="427a4218-defb-43ee-8c94-06f14837710d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ict/computer/generator/ad_testing/Button.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ict/computer/generator/ad_testing/Generator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ict/computer/generator/ad_testing/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ict/computer/generator/ad_testing/MyBuffer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ict/computer/generator/ad_testing/Number.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ict/computer/generator/ad_testing/Settings.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ict/computer/generator/ae_testing/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ict/computer/generator/ae_testing/aa_gui/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -50,6 +44,9 @@
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Global Libraries" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.0" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.import" />
   </component>
   <component name="RecentsManager">
@@ -150,6 +147,7 @@
       <updated>1565693866133</updated>
       <workItem from="1565693871946" duration="17136000" />
       <workItem from="1565734292906" duration="10802000" />
+      <workItem from="1565769795430" duration="1520000" />
     </task>
     <servers />
   </component>
@@ -161,7 +159,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>

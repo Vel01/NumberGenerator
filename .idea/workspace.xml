@@ -2,9 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="427a4218-defb-43ee-8c94-06f14837710d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/ict/computer/generator/ae_testing/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ict/computer/generator/ae_testing/aa_gui/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ict/computer/generator/ae_testing/Button.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ict/computer/generator/ae_testing/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ict/computer/generator/ae_testing/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ict/computer/generator/ae_testing/aa_gui/Main.java" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -51,6 +52,7 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="ict.computer.generator.ae_testing" />
       <recent name="ict.computer.generator.ac_testing" />
       <recent name="ict.computer.generator.ab_testing" />
     </key>
@@ -70,7 +72,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Main (3)">
+  <component name="RunManager" selected="Application.Main (4)">
     <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ict.computer.generator.ab_testing.Main" />
       <module name="NumberGenerator" />
@@ -110,6 +112,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Main (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ict.computer.generator.ae_testing.Main" />
+      <module name="NumberGenerator" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ict.computer.generator.ae_testing.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="ict.computer.generator.aa_testing.Main" />
       <module name="NumberGenerator" />
@@ -125,9 +140,11 @@
       <item itemvalue="Application.Main (1)" />
       <item itemvalue="Application.Main (2)" />
       <item itemvalue="Application.Main (3)" />
+      <item itemvalue="Application.Main (4)" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main (4)" />
         <item itemvalue="Application.Main (3)" />
         <item itemvalue="Application.Main (2)" />
         <item itemvalue="Application.Main (1)" />
@@ -148,6 +165,11 @@
       <workItem from="1565693871946" duration="17136000" />
       <workItem from="1565734292906" duration="10802000" />
       <workItem from="1565769795430" duration="1520000" />
+      <workItem from="1565854135475" duration="806000" />
+      <workItem from="1565856325448" duration="21000" />
+      <workItem from="1565866938509" duration="3042000" />
+      <workItem from="1565875253025" duration="1240000" />
+      <workItem from="1566050651767" duration="2243000" />
     </task>
     <servers />
   </component>
